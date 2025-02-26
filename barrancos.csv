@@ -1,0 +1,700 @@
+[	
+{	
+id:1	
+"nombre:""Lomo alferez"""	
+"isla:""Tenerife"""	
+"municipio:""Barranco hondo"""	
+longitud:2000	
+desnivel:300	
+rapeles:11	
+"equipamiento:""Regular"""	
+"descripcion:""Ideal como barranco de inicio"""	
+"imagen:""\/uploads\/1739967981417.jpg"""	
+}	
+{	
+id:2	
+"nombre:""Badajoz"""	
+"isla:""Tenerife"""	
+"municipio:""G\u00fc\u00edmar"""	
+longitud:3000	
+desnivel:300	
+rapeles:10	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco impresionante"""	
+imagen:null	
+}	
+{	
+id:3	
+"nombre:""Barranco Vigaroe"""	
+"isla:""Tenerife"""	
+"municipio:""La Laguna"""	
+longitud:500	
+desnivel:150	
+rapeles:5	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco con hermosos paisajes."""	
+imagen:null	
+}	
+{	
+id:4	
+"nombre:""Barranco de Masca"""	
+"isla:""Tenerife"""	
+"municipio:""Buenavista"""	
+longitud:4500	
+desnivel:600	
+rapeles:8	
+"equipamiento:""Regular"""	
+"descripcion:""Uno de los barrancos m\u00e1s famosos de Tenerife."""	
+imagen:null	
+}	
+{	
+id:5	
+"nombre:""Barranco de Badajoz"""	
+"isla:""Tenerife"""	
+"municipio:""G\u00fc\u00edmar"""	
+longitud:3000	
+desnivel:400	
+rapeles:7	
+"equipamiento:""Bueno"""	
+"descripcion:""Popular por sus historias de misterio."""	
+imagen:null	
+}	
+{	
+id:6	
+"nombre:""Barranco del Infierno"""	
+"isla:""Tenerife"""	
+"municipio:""Adeje"""	
+longitud:6500	
+desnivel:900	
+rapeles:10	
+"equipamiento:""Bueno"""	
+"descripcion:""Uno de los senderos m\u00e1s visitados de la isla."""	
+imagen:null	
+}	
+{	
+id:7	
+"nombre:""Barranco de Guayadeque"""	
+"isla:""Gran Canaria"""	
+"municipio:""Aguimes"""	
+longitud:15000	
+desnivel:1200	
+rapeles:15	
+"equipamiento:""Bueno"""	
+"descripcion:""Impresionante barranco con cuevas naturales."""	
+imagen:null	
+}	
+{	
+id:10	
+"nombre:""Barranco del Cedro"""	
+"isla:""Tenerife"""	
+"municipio:""La Orotava"""	
+longitud:1200	
+desnivel:300	
+rapeles:6	
+"equipamiento:""Regular"""	
+"descripcion:""Uno de los barrancos m\u00e1s bonitos de la isla."""	
+imagen:null	
+}	
+{	
+id:11	
+"nombre:""Barranco de los Cern\u00edcalos"""	
+"isla:""Gran Canaria"""	
+"municipio:""Telde"""	
+longitud:3500	
+desnivel:450	
+rapeles:9	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco con cascadas y flora abundante."""	
+imagen:null	
+}	
+{	
+id:12	
+"nombre:""Barranco de Afur"""	
+"isla:""Tenerife"""	
+"municipio:""Taganana"""	
+longitud:5000	
+desnivel:700	
+rapeles:11	
+"equipamiento:""Bueno"""	
+"descripcion:""Un barranco espectacular con salida al mar."""	
+imagen:null	
+}	
+{	
+id:29	
+"nombre:""Barranco de Chamorga"""	
+"isla:""Tenerife"""	
+"municipio:""Anaga"""	
+longitud:8000	
+desnivel:900	
+rapeles:12	
+"equipamiento:""Bueno"""	
+"descripcion:""Un barranco espectacular con vistas al mar."""	
+imagen:null	
+}	
+{	
+id:30	
+"nombre:""Barranco de Igueste"""	
+"isla:""Tenerife"""	
+"municipio:""Santa Cruz"""	
+longitud:5000	
+desnivel:400	
+rapeles:8	
+"equipamiento:""Regular"""	
+"descripcion:""Barranco con senderos y una cascada al final."""	
+imagen:null	
+}	
+{	
+id:31	
+"nombre:""Barranco de Taborno"""	
+"isla:""Tenerife"""	
+"municipio:""Taborno"""	
+longitud:7500	
+desnivel:850	
+rapeles:10	
+"equipamiento:""Bueno"""	
+"descripcion:""Ubicado en Anaga"""	
+imagen:null	
+}	
+{	
+id:32	
+"nombre:""Barranco de G\u00fc\u00edmar"""	
+"isla:""Tenerife"""	
+"municipio:""G\u00fc\u00edmar"""	
+longitud:9500	
+desnivel:1000	
+rapeles:15	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco con tramos t\u00e9cnicos y hermosos paisajes."""	
+imagen:null	
+}	
+{	
+id:33	
+"nombre:""Barranco de Chinguaro"""	
+"isla:""Tenerife"""	
+"municipio:""Candelaria"""	
+longitud:6000	
+desnivel:500	
+rapeles:9	
+"equipamiento:""Regular"""	
+"descripcion:""Barranco con importancia hist\u00f3rica y arqueol\u00f3gica."""	
+imagen:null	
+}	
+{	
+id:34	
+"nombre:""Barranco de Erques"""	
+"isla:""Tenerife"""	
+"municipio:""Gu\u00eda de Isora"""	
+longitud:4000	
+desnivel:350	
+rapeles:7	
+"equipamiento:""Malo"""	
+"descripcion:""Uno de los barrancos menos conocidos de la isla."""	
+imagen:null	
+}	
+{	
+id:35	
+"nombre:""Barranco de La Galga"""	
+"isla:""La Palma"""	
+"municipio:""Puntallana"""	
+longitud:12000	
+desnivel:800	
+rapeles:10	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco con laurisilva y senderos m\u00e1gicos."""	
+imagen:null	
+}	
+{	
+id:36	
+"nombre:""Barranco de La Fuente"""	
+"isla:""La Palma"""	
+"municipio:""San Andr\u00e9s"""	
+longitud:7000	
+desnivel:600	
+rapeles:9	
+"equipamiento:""Regular"""	
+"descripcion:""Barranco con formaciones geol\u00f3gicas interesantes."""	
+imagen:null	
+}	
+{	
+id:37	
+"nombre:""Barranco de Las Angustias"""	
+"isla:""La Palma"""	
+"municipio:""Tazacorte"""	
+longitud:16000	
+desnivel:1100	
+rapeles:18	
+"equipamiento:""Bueno"""	
+"descripcion:""Uno de los barrancos m\u00e1s largos de Canarias."""	
+imagen:null	
+}	
+{	
+id:38	
+"nombre:""Barranco de Agua"""	
+"isla:""Tenerife"""	
+"municipio:""Tenerife"""	
+longitud:6500	
+desnivel:500	
+rapeles:12	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco con vistas incre\u00edbles y cascadas naturales."""	
+imagen:null	
+}	
+{	
+id:39	
+"nombre:""Barranco de Guarimiar"""	
+"isla:""La Gomera"""	
+"municipio:""Alajer\u00f3"""	
+longitud:11000	
+desnivel:900	
+rapeles:14	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco espectacular con desniveles impresionantes."""	
+imagen:null	
+}	
+{	
+id:40	
+"nombre:""Barranco de Benchijigua"""	
+"isla:""La Gomera"""	
+"municipio:""San Sebasti\u00e1n"""	
+longitud:7500	
+desnivel:750	
+rapeles:11	
+"equipamiento:""Regular"""	
+"descripcion:""Barranco con vistas panor\u00e1micas."""	
+imagen:null	
+}	
+{	
+id:41	
+"nombre:""Barranco de la Madera"""	
+"isla:""El Hierro"""	
+"municipio:""Valverde"""	
+longitud:4000	
+desnivel:350	
+rapeles:7	
+"equipamiento:""No tiene"""	
+"descripcion:""Barranco de dif\u00edcil acceso"""	
+imagen:null	
+}	
+{	
+id:42	
+"nombre:""Barranco de El Julan"""	
+"isla:""El Hierro"""	
+"municipio:""La Frontera"""	
+longitud:12000	
+desnivel:900	
+rapeles:16	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco con historia aborigen y vistas impresionantes."""	
+imagen:null	
+}	
+{	
+id:43	
+"nombre:""Barranco de Tirajana"""	
+"isla:""Gran Canaria"""	
+"municipio:""San Bartolom\u00e9"""	
+longitud:14000	
+desnivel:1200	
+rapeles:18	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco con rutas de senderismo y escalada."""	
+imagen:null	
+}	
+{	
+id:44	
+"nombre:""Barranco de Fataga"""	
+"isla:""Gran Canaria"""	
+"municipio:""Fataga"""	
+longitud:8000	
+desnivel:750	
+rapeles:10	
+"equipamiento:""Regular"""	
+"descripcion:""Uno de los barrancos m\u00e1s visitados de Gran Canaria."""	
+imagen:null	
+}	
+{	
+id:45	
+"nombre:""Barranco de Veneguera"""	
+"isla:""Gran Canaria"""	
+"municipio:""Mog\u00e1n"""	
+longitud:15000	
+desnivel:1300	
+rapeles:20	
+"equipamiento:""Bueno"""	
+"descripcion:""Ideal para rutas de barranquismo y senderismo."""	
+imagen:null	
+}	
+{	
+id:46	
+"nombre:""Barranco de Mog\u00e1n"""	
+"isla:""Gran Canaria"""	
+"municipio:""Mog\u00e1n"""	
+longitud:12000	
+desnivel:1100	
+rapeles:15	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco con flora end\u00e9mica y formaciones rocosas."""	
+imagen:null	
+}	
+{	
+id:47	
+"nombre:""Barranco de Arguinegu\u00edn"""	
+"isla:""Gran Canaria"""	
+"municipio:""Arguinegu\u00edn"""	
+longitud:9000	
+desnivel:850	
+rapeles:12	
+"equipamiento:""Regular"""	
+"descripcion:""Barranco con rutas de senderismo y cuevas naturales."""	
+imagen:null	
+}	
+{	
+id:48	
+"nombre:""Barranco de Azuaje"""	
+"isla:""Gran Canaria"""	
+"municipio:""Firgas"""	
+longitud:6000	
+desnivel:500	
+rapeles:9	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco con historia geol\u00f3gica y cascadas naturales."""	
+imagen:null	
+}	
+{	
+id:105	
+"nombre:""Barranco del R\u00edo"""	
+"isla:""Tenerife"""	
+"municipio:""Arico"""	
+longitud:7000	
+desnivel:600	
+rapeles:10	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco con tramos t\u00e9cnicos y cascadas impresionantes."""	
+imagen:null	
+}	
+{	
+id:106	
+"nombre:""Barranco de Ruiz"""	
+"isla:""Tenerife"""	
+"municipio:""San Juan de la Rambla"""	
+longitud:5000	
+desnivel:400	
+rapeles:7	
+"equipamiento:""Regular"""	
+"descripcion:""Barranco de inter\u00e9s geol\u00f3gico y biodiversidad."""	
+imagen:null	
+}	
+{	
+id:107	
+"nombre:""Barranco de Anaga"""	
+"isla:""Tenerife"""	
+"municipio:""Anaga"""	
+longitud:8000	
+desnivel:900	
+rapeles:12	
+"equipamiento:""Bueno"""	
+"descripcion:""Ruta espectacular con vistas panor\u00e1micas."""	
+imagen:null	
+}	
+{	
+id:108	
+"nombre:""Barranco de Fasnia"""	
+"isla:""Tenerife"""	
+"municipio:""Fasnia"""	
+longitud:6500	
+desnivel:550	
+rapeles:8	
+"equipamiento:""Regular"""	
+"descripcion:""Barranco con formaciones rocosas \u00fanicas."""	
+imagen:null	
+}	
+{	
+id:109	
+"nombre:""Barranco de La Hondura"""	
+"isla:""Tenerife"""	
+"municipio:""Santa Cruz de Tenerife"""	
+longitud:4500	
+desnivel:300	
+rapeles:5	
+"equipamiento:""Malo"""	
+"descripcion:""Barranco con senderos de dificultad media."""	
+imagen:null	
+}	
+{	
+id:110	
+"nombre:""Barranco de El Cercado"""	
+"isla:""La Gomera"""	
+"municipio:""Vallehermoso"""	
+longitud:7000	
+desnivel:750	
+rapeles:9	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco con flora y fauna end\u00e9mica."""	
+imagen:null	
+}	
+{	
+id:111	
+"nombre:""Barranco de Hermigua"""	
+"isla:""La Gomera"""	
+"municipio:""Hermigua"""	
+longitud:8000	
+desnivel:850	
+rapeles:11	
+"equipamiento:""Regular"""	
+"descripcion:""Barranco con impresionantes ca\u00eddas de agua."""	
+imagen:null	
+}	
+{	
+id:112	
+"nombre:""Barranco de La Laja"""	
+"isla:""Gran Canaria"""	
+"municipio:""Las Palmas"""	
+longitud:6000	
+desnivel:500	
+rapeles:7	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco con estructuras naturales impresionantes."""	
+imagen:null	
+}	
+{	
+id:113	
+"nombre:""Barranco de Arucas"""	
+"isla:""Gran Canaria"""	
+"municipio:""Arucas"""	
+longitud:5500	
+desnivel:450	
+rapeles:6	
+"equipamiento:""Regular"""	
+"descripcion:""Barranco con un gran valor ecol\u00f3gico y cultural."""	
+imagen:null	
+}	
+{	
+id:115	
+"nombre:""Barranco de La Palma"""	
+"isla:""El Hierro"""	
+"municipio:""Valverde"""	
+longitud:4000	
+desnivel:350	
+rapeles:7	
+"equipamiento:""No tiene"""	
+"descripcion:""Barranco de acceso complicado pero vistas incre\u00edbles."""	
+imagen:null	
+}	
+{	
+id:116	
+"nombre:""Barranco de Aguas Verdes"""	
+"isla:""Fuerteventura"""	
+"municipio:""Betancuria"""	
+longitud:9000	
+desnivel:800	
+rapeles:12	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco con formaciones rocosas y cauce seco."""	
+imagen:null	
+}	
+{	
+id:117	
+"nombre:""Barranco de Los Molinos"""	
+"isla:""Fuerteventura"""	
+"municipio:""Puerto del Rosario"""	
+longitud:7500	
+desnivel:700	
+rapeles:10	
+"equipamiento:""Regular"""	
+"descripcion:""Barranco con paisajes \u00e1ridos y formaciones volc\u00e1nicas."""	
+imagen:null	
+}	
+{	
+id:118	
+"nombre:""Barranco de La Herradura"""	
+"isla:""Lanzarote"""	
+"municipio:""Teguise"""	
+longitud:6500	
+desnivel:600	
+rapeles:9	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco con rutas de senderismo y vistas al mar."""	
+imagen:null	
+}	
+{	
+id:122	
+"nombre:""Barranco de Maspalomas"""	
+"isla:""Gran Canaria"""	
+"municipio:""San Bartolom\u00e9"""	
+longitud:10000	
+desnivel:950	
+rapeles:14	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco con formaciones de dunas y senderos."""	
+imagen:null	
+}	
+{	
+id:163	
+"nombre:""Barranco de El Seco"""	
+"isla:""Tenerife"""	
+"municipio:""Santa Cruz de Tenerife"""	
+longitud:7200	
+desnivel:650	
+rapeles:9	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco con grandes vistas al Atl\u00e1ntico."""	
+imagen:null	
+}	
+{	
+id:164	
+"nombre:""Barranco del Agua"""	
+"isla:""Tenerife"""	
+"municipio:""Los Silos"""	
+longitud:5100	
+desnivel:400	
+rapeles:6	
+"equipamiento:""Regular"""	
+"descripcion:""Barranco con ca\u00eddas de agua y vegetaci\u00f3n frondosa."""	
+imagen:null	
+}	
+{	
+id:165	
+"nombre:""Barranco de Tigaiga"""	
+"isla:""Tenerife"""	
+"municipio:""Los Realejos"""	
+longitud:5300	
+desnivel:450	
+rapeles:7	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco con historia volc\u00e1nica y senderos empinados."""	
+imagen:null	
+}	
+{	
+id:166	
+"nombre:""Barranco de Los Carrizales"""	
+"isla:""Tenerife"""	
+"municipio:""Buenavista del Norte"""	
+longitud:6000	
+desnivel:550	
+rapeles:8	
+"equipamiento:""Regular"""	
+"descripcion:""Barranco con senderos naturales y vistas espectaculares."""	
+imagen:null	
+}	
+{	
+id:167	
+"nombre:""Barranco del Diablo"""	
+"isla:""Tenerife"""	
+"municipio:""Santa Cruz de Tenerife"""	
+longitud:7500	
+desnivel:700	
+rapeles:10	
+"equipamiento:""Malo"""	
+"descripcion:""Barranco de dif\u00edcil acceso con rutas t\u00e9cnicas."""	
+imagen:null	
+}	
+{	
+id:168	
+"nombre:""Barranco de El Cedro"""	
+"isla:""La Gomera"""	
+"municipio:""Hermigua"""	
+longitud:10000	
+desnivel:900	
+rapeles:12	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco con laurisilva y un paisaje incre\u00edble."""	
+imagen:null	
+}	
+{	
+id:169	
+"nombre:""Barranco de Las Rosas"""	
+"isla:""La Gomera"""	
+"municipio:""Vallehermoso"""	
+longitud:9500	
+desnivel:850	
+rapeles:11	
+"equipamiento:""Regular"""	
+"descripcion:""Barranco con formaciones rocosas y tramos de escalada."""	
+imagen:null	
+}	
+{	
+id:170	
+"nombre:""Barranco de Los Tiles"""	
+"isla:""La Palma"""	
+"municipio:""San Andr\u00e9s y Sauces"""	
+longitud:12000	
+desnivel:1000	
+rapeles:14	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco con bosque de laurisilva y gran biodiversidad."""	
+imagen:null	
+}	
+{	
+id:171	
+"nombre:""Barranco de Izcagua"""	
+"isla:""La Palma"""	
+"municipio:""Tijarafe"""	
+longitud:8600	
+desnivel:750	
+rapeles:10	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco con espectaculares formaciones geol\u00f3gicas."""	
+imagen:null	
+}	
+{	
+id:172	
+"nombre:""Barranco de El Golfo"""	
+"isla:""El Hierro"""	
+"municipio:""Frontera"""	
+longitud:9000	
+desnivel:850	
+rapeles:11	
+"equipamiento:""Regular"""	
+"descripcion:""Barranco con vistas al mar y rutas de senderismo."""	
+imagen:null	
+}	
+{	
+id:173	
+"nombre:""Barranco de Orchilla"""	
+"isla:""El Hierro"""	
+"municipio:""El Pinar"""	
+longitud:7000	
+desnivel:600	
+rapeles:9	
+"equipamiento:""Malo"""	
+"descripcion:""Barranco con paisajes \u00e1ridos y acantilados impresionantes."""	
+imagen:null	
+}	
+{	
+id:174	
+"nombre:""Barranco de Ajuy"""	
+"isla:""Fuerteventura"""	
+"municipio:""P\u00e1jara"""	
+longitud:6800	
+desnivel:650	
+rapeles:10	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco con historia geol\u00f3gica y formaciones de lava."""	
+imagen:null	
+}	
+{	
+id:175	
+"nombre:""Barranco de Ginigin\u00e1mar"""	
+"isla:""Fuerteventura"""	
+"municipio:""Tuineje"""	
+longitud:8200	
+desnivel:750	
+rapeles:12	
+"equipamiento:""Regular"""	
+"descripcion:""Barranco con vistas panor\u00e1micas y senderos."""	
+imagen:null	
+}	
+{	
+id:176	
+"nombre:""Barranco de Fem\u00e9s"""	
+"isla:""Lanzarote"""	
+"municipio:""Yaiza"""	
+longitud:9400	
+desnivel:900	
+rapeles:14	
+"equipamiento:""Bueno"""	
+"descripcion:""Barranco con rutas de senderismo y vistas a"""	
+imagen:null	
+}	
+]	
+	
+	
